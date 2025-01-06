@@ -30,3 +30,5 @@ Prophet: Time-series forecasting model.
 OpenAI GPT API: For generating summaries and insights.
 Streamlit: Interactive UI development.
 Matplotlib/Plotly: For visualizing energy usage patterns.
+
+Demo Video :https://drive.google.com/file/d/1bZsufSQzjLoigtkF60Cm9FtpC9lidjth/view?usp=sharing
